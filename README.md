@@ -30,7 +30,7 @@ The Healthcare App is a comprehensive solution designed to manage and monitor he
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/NimanthaSupun/healthcare.git
+    git clone https://github.com/andriimobdev25/healthcare-app.git
     cd healthcare
     ```
 
@@ -66,15 +66,3 @@ The Healthcare App is a comprehensive solution designed to manage and monitor he
 - **📲 View Notifications**: Receive and view push and local notifications.
 - **👩‍🏫 Manage Profile**: View and update your profile information.
 - **🔗 Track Symptoms**: Add and track your symptoms over time.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For any questions or suggestions, please contact [Nimantha Supun](mailto:yourname@example.com).
